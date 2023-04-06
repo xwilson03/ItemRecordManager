@@ -1,2 +1,2 @@
 # ItemRecordManager
-Uses Bash to implement CURD operations for a store item catalog.
+Uses Bash to implement CURD operations for a store item catalog application.
